@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "832382792164",
+    "project_id": "fikwir",
+    "storage_bucket": "fikwir.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832382792164:android:550e19d5ddd521242617f1",
+        "android_client_info": {
+          "package_name": "com.example.fik_wir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832382792164-3ia4un0d0ckqno0669qe9gdlambeber4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZqq1dKWOR2I2uhjNX5g0hI1c3k_8jNkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832382792164-3ia4un0d0ckqno0669qe9gdlambeber4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
